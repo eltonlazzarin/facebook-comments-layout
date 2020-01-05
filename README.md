@@ -16,9 +16,6 @@
 
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/eltonlazzarin/facebook-comments-layout">   
 
-  This projects was developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) with the following technologies:
-
-
   ### :rocket: Frontend Technologies (WebApp)
   <p align="center">
    <img alt="SaaS Web" src="https://github.com/eltonlazzarin/facebook-comments-layout/blob/master/facebookcomments.png">  
